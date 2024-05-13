@@ -77,7 +77,7 @@ function Footer() {
             <p>California, USA</p>
             <p>USA 0001</p>
             <p>Email: info@musicschool.com</p>
-            <p>Phone: (012) 456-7890</p>
+            <p>Phone: (012) 456-7800</p>
           </div>
           </div>
           <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
